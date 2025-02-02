@@ -1,0 +1,22 @@
+/* src/components/Logo/Logo.module.css */
+.logo {
+  display: flex;
+  flex-direction: column;
+  align-items: right;
+  color: white;
+}
+
+.topText {
+  font-weight: bold;
+  font-size: 2.5rem;
+  line-height: 1;
+  text-align: right;
+  text-transform: uppercase;
+}
+
+.bottomText {
+  font-size: 2rem;
+  line-height: 1;
+  text-align: right;
+  text-transform: uppercase;
+}
